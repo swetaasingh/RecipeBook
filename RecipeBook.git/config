@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = ssh://swetajyoti@review.gerrithub.io:29418/swetaasingh/RecipeBook
